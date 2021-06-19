@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/798641277/Threads_AsyncTask.iml" filepath="$PROJECT_DIR$/.idea/modules/798641277/Threads_AsyncTask.iml" group="Threads_AsyncTask" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Threads_AsyncTask/app" />
+    </modules>
+  </component>
+</project>
